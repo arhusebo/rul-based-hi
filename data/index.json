@@ -1,0 +1,96 @@
+{
+  "path":"D://Other/master/data/",
+  "file_length": 2560,
+  "default_sep": ",",
+  "train_data":[
+    {
+      "path": "ieee/Learning_set/Bearing1_1/",
+      "channel": 4,
+      "split": 1373
+    },
+    {
+      "path": "ieee/Learning_set/Bearing1_2/",
+      "channel": 4,
+      "split": 812
+    },
+    {
+      "path": "ieee/Learning_set/Bearing2_1/",
+      "channel": 4,
+      "split": 110
+    },
+    {
+      "path": "ieee/Learning_set/Bearing2_2/",
+      "channel": 4,
+      "split": 167
+    },
+    {
+      "path": "ieee/Learning_set/Bearing3_1/",
+      "channel": 4,
+      "split": 476
+    },
+    {
+      "path": "ieee/Learning_set/Bearing3_2/",
+      "channel": 4,
+      "split": 1423
+    }
+  ],
+  "test_data":[
+    {
+      "path": "ieee/Full_Test_Set/Bearing1_3/",
+      "channel": 4,
+      "split": 1802
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing1_4/",
+      "channel": 4,
+      "sep": ";",
+      "split": 1139
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing1_5/",
+      "channel": 4,
+      "split": 2302
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing1_6/",
+      "channel": 4,
+      "split": 2302
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing1_7/",
+      "channel": 4,
+      "split": 1502
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing2_3/",
+      "channel": 4,
+      "split": 1202
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing2_4/",
+      "channel": 4,
+      "split": 612
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing2_5/",
+      "channel": 4,
+      "channel_v": 5,
+      "split": 2002
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing2_6/",
+      "channel": 4,
+      "split": 572
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing2_7/",
+      "channel": 4,
+      "split": 172
+    },
+    {
+      "path": "ieee/Full_Test_Set/Bearing3_3/",
+      "channel": 4,
+      "split": 352
+    }
+  ]
+}
